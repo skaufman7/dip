@@ -10,4 +10,12 @@ package dip.lab1.student.solution1;
  */
 public class HRService {
     
+    // This class should only delegate the work to the specific employee class and
+    // then return the requested infromation???
+    
+    
+    
+    
+    
+    
 }

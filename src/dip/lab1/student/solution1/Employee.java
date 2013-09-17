@@ -13,7 +13,7 @@ public interface Employee {
     
     
     
-    public abstract double getNetPay();
+    public abstract double getPay();
     
     
 }
